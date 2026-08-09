@@ -1,5 +1,5 @@
 # projects
-All the projects I have ever worked on, since high school.
+All the projects I have ever worked on since high school.
 
 All links are Google Docs with CodeSkulptor3 project links.
 
